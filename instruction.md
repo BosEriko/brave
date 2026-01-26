@@ -4,6 +4,7 @@ Setup a few things with Brave.
 ## Update your settings
 - [x] Use wide address bar
 - [x] Use vertical tabs
+  - [x] Hide completely when minimized
 - [x] Set as default browser
 
 ## Extensions
