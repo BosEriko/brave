@@ -2,7 +2,6 @@
 Setup a few things with Brave.
 
 ## Update your settings
-### Check
 - [x] Use wide address bar
 - [x] Use vertical tabs
 - [x] Set as default browser
