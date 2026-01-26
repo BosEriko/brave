@@ -6,6 +6,7 @@ Setup a few things with Brave.
 - [x] Use vertical tabs
   - [x] Hide completely when minimized
 - [x] Set as default browser
+- [ ] Close window when closing last tab
 
 ## Extensions
 - [Proton Pass](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde)
