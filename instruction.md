@@ -13,6 +13,9 @@ Setup a few things with Brave.
 - [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
 
 ## Vimium
+### Excluded URLs and keys
+- `https?://mail.google.com/*` — `All`
+- `https?://jstris.jezevec10.com/*` — `All`
 ### Custom key mappings
 ```
 unmap T
