@@ -17,6 +17,7 @@ Setup a few things with Brave.
 ```
 unmap T
 map <C-\> Vomnibar.activateTabSelection
+
 unmap o
 map <C-p> Vomnibar.activate
 ```
