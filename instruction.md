@@ -11,6 +11,7 @@ Setup a few things with Brave.
 ## Extensions
 - [Proton Pass](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde)
 - [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
+- [Aura Theme](https://chromewebstore.google.com/detail/aura-theme/ddipnaombfnagpagnpdkdinoekfhfjoh)
 
 ## Vimium
 ### Excluded URLs and keys
