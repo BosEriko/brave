@@ -1,5 +1,5 @@
 # Hotkeys
-Add the hotkeys [here](brave://settings/system/shortcuts).
+Add the hotkeys on `brave://settings/system/shortcuts`.
 
 ## Tab
 - New Tab: `ctrl+n`
