@@ -1,10 +1,10 @@
 # Brave (Browser)
-Download [Brew](https://github.com/BosEriko/brew) as your package manager then install [Brave](https://formulae.brew.sh/cask/brave-browser).
+Download [Nix](https://github.com/BosEriko/nix) as your package manager then install [Brave](https://search.nixos.org/packages?query=brave&show=brave).
 
 ## Install Brave
 ```sh
-brew install --cask brave-browser
+nix-env -iA nixpkgs.brave
 ```
 
 ## Update your settings
-Follow this [instruction](instruction.md) to update your settings. Then update your [hotkeys](hotkeys.md).
+Follow this [instruction](instruction.md) to update your settings. Then update your [hotkeys](https://github.com/boseriko/hotkey/blob/main/BROWSER.md).
