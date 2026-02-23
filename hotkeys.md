@@ -9,10 +9,10 @@ Add the hotkeys on `brave://settings/system/shortcuts`.
 - Next Tab: `Ctrl`+`J`
 - Previous Tab: `Ctrl`+`K`
 - Forward: `Ctrl`+`L`
-- 
+
 ## Page
 - Reload: `Ctrl`+`R`
 - Reload bypassing cache: `Ctrl`+`Shift`+`r`
-- 
+
 ## Miscellaneous
 - Copy URL: `Ctrl`+`B`
