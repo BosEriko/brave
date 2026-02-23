@@ -1,10 +1,11 @@
 # Brave (Browser)
-Download [Brew](https://github.com/BosEriko/brew) as your package manager then install [Brave](https://formulae.brew.sh/cask/brave-browser).
+Download [Scoop](https://github.com/BosEriko/scoop) as your package manager then install [PowerToys](https://scoop.sh/#/apps?q=brave).
 
 ## Install Brave
 ```sh
-brew install --cask brave-browser
+scoop bucket add extras
+scoop install extras/brave
 ```
 
 ## Update your settings
-Follow this [instruction](instruction.md) to update your settings. Then update your [hotkeys](hotkeys.md).
+Follow this [instruction](instruction.md) to update your settings. Then update your [hotkeys](https://github.com/boseriko/hotkey/blob/main/BROWSER.md).
