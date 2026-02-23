@@ -2,15 +2,17 @@
 Add the hotkeys on `brave://settings/system/shortcuts`.
 
 ## Tab
-- New Tab: `ctrl+n`
-- Reopen Closed Tab: `ctrl+shift+n`
-- Close Tab: `ctrl+w`
-- Back: `ctrl+h`
-- Next Tab: `ctrl+j`
-- Previous Tab: `ctrl+k`
-- Forward: `ctrl+l`
+- New Tab: `Ctrl`+`T`
+- Reopen Closed Tab: `Ctrl`+`Shift`+`T`
+- Close Tab: `Ctrl`+`W`
+- Back: `Ctrl`+`H`
+- Next Tab: `Ctrl`+`J`
+- Previous Tab: `Ctrl`+`K`
+- Forward: `Ctrl`+`L`
+- 
 ## Page
-- Reload: `ctrl+r`
-- Reload bypassing cache: `ctrl+shift+r`
+- Reload: `Ctrl`+`R`
+- Reload bypassing cache: `Ctrl`+`Shift`+`r`
+- 
 ## Miscellaneous
-- Copy URL: `ctrl+b`
+- Copy URL: `Ctrl`+`B`
