@@ -7,4 +7,4 @@ brew install --cask brave-browser
 ```
 
 ## Update your settings
-Follow this [instruction](instruction.md) to update your settings. Then update your [hotkeys](hotkeys.md).
+Follow this [instruction](instruction.md) to update your settings. Then update your [hotkeys](https://github.com/boseriko/hotkey/blob/main/BROWSER.md).
