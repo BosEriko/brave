@@ -22,9 +22,8 @@ map <C-;> createTab https://jstris.jezevec10.com/play/sprint/40
 ```
 
 ## Custom Style Script
-### URL
-- `https://jstris.jezevec10.com/`
-### Style (CSS)
+### Jstris
+URL: `https://jstris.jezevec10.com/`
 ```css
 #lrem {
   color: white !important;
@@ -48,5 +47,12 @@ map <C-;> createTab https://jstris.jezevec10.com/play/sprint/40
 }
 #sprintText {
   display: none !important;
+}
+```
+### Facebook Messenger
+URL: `https://www.facebook.com/messages`
+```css
+body {
+  background-color: pink;
 }
 ```
