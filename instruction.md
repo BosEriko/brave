@@ -49,10 +49,3 @@ URL: `https://jstris.jezevec10.com/`
   display: none !important;
 }
 ```
-### Facebook Messenger
-URL: `https://www.facebook.com/messages`
-```css
-[role="navigation"] {
-  display: none !important;
-}
-```
