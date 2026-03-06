@@ -52,7 +52,7 @@ URL: `https://jstris.jezevec10.com/`
 ### Facebook Messenger
 URL: `https://www.facebook.com/messages`
 ```css
-body {
-  background-color: pink;
+[role="navigation"] {
+  display: none !important;
 }
 ```
