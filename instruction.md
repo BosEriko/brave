@@ -12,6 +12,7 @@ Setup a few things with Brave.
 Set your startup pages by going to `brave://settings/getStarted` → `On startup` → `Open a specific page or set of pages`:
 - https://habitica.com/
 - https://todoist.com/
+- https://calendar.proton.me/
 - https://mail.proton.me/u/3/all-mail#filter=unread&sort=date
 
 ## Extensions
