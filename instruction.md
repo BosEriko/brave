@@ -12,8 +12,9 @@ Setup a few things with Brave.
 Set your startup pages by going to `brave://settings/getStarted` → `On startup` → `Open a specific page or set of pages`:
 - https://habitica.com/
 - https://app.todoist.com/app/today
-- https://calendar.proton.me/
+- https://github.com/users/BosEriko/projects/1
 - https://mail.proton.me/u/3/all-mail#filter=unread&sort=date
+- https://calendar.proton.me/
 
 ## Extensions
 - [Proton Pass](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde)
