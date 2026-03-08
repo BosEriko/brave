@@ -8,6 +8,12 @@ Setup a few things with Brave.
 - [x] Set as default browser
 - [ ] Close window when closing last tab
 
+## Startup Pages
+Set your startup pages by going to `brave://settings/getStarted` → `On startup` → `Open a specific page or set of pages`:
+- https://habitica.com/
+- https://todoist.com/
+- https://mail.proton.me/u/3/all-mail#filter=unread&sort=date
+
 ## Extensions
 - [Proton Pass](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde)
 - [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
