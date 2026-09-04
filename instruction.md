@@ -27,8 +27,8 @@ Set your startup pages by going to `brave://settings/getStarted` → `On startup
 - `https?://jstris.jezevec10.com/*` — `All`
 ### Custom key mappings
 ```
-map <C-;> createTab https://jstris.jezevec10.com/play/sprint/40
-map <C-space> createTab https://life.boseriko.com/
+map <C-space>t createTab https://jstris.jezevec10.com/play/sprint/40
+map <C-space>l createTab https://life.boseriko.com/
 unmap f
 unmap F
 map s LinkHints.activateMode
