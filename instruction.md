@@ -10,6 +10,7 @@ Setup a few things with Brave.
 
 ## Startup Pages
 Set your startup pages by going to `brave://settings/getStarted` → `On startup` → `Open a specific page or set of pages`:
+- https://life.boseriko.com/
 - https://habitica.com/
 - https://app.todoist.com/app/today
 - https://github.com/users/BosEriko/projects/1
